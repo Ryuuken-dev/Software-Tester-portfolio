@@ -45,3 +45,6 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 
 # My projects
+
+* Individual project-Exploratory testing site soucedemo.com
+  * Exploratory testing: https://drive.google.com/file/d/1dZ-WVh8KzxP3rp4Jw0Z6aeAIToCrdfuC/view?usp=sharing
