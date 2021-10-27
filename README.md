@@ -42,7 +42,9 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 
 # My examples of diagrams and decision tables
-
+* Zadanie #1
+  * Treść zadania: https://drive.google.com/file/d/1nbbDen-mEaj4c8zghGMOGW750fXKHvhr/view?usp=sharing
+  * Rozwiązanie-tablica decyzyjna: https://drive.google.com/file/d/1BcSmbZCmeiu1h9_C-bfcq3OdfybrgjMp/view?usp=sharing
 
 # My projects
 
