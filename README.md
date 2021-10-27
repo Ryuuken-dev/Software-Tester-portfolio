@@ -45,6 +45,8 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 * Zadanie #1
   * Treść zadania: https://drive.google.com/file/d/1nbbDen-mEaj4c8zghGMOGW750fXKHvhr/view?usp=sharing
   * Rozwiązanie-tablica decyzyjna: https://drive.google.com/file/d/1BcSmbZCmeiu1h9_C-bfcq3OdfybrgjMp/view?usp=sharing
+* Sygnalizacja świetlna-tablica decyzyjna
+  * https://drive.google.com/file/d/1XRpP-n8anlM0w3HGk35dUk6JYYwtwgiO/view?usp=sharing
 
 # My projects
 
