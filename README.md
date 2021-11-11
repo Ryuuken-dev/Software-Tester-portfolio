@@ -6,6 +6,8 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 # Tools
 
+* Jira
+* TestRail
 
 # Tech skills
 
