@@ -22,6 +22,7 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 * Software Development Academy: Software Tester (in progress)
 * PyStart: Python programming language
 * SkumajBazy: SQL (in progress)
+* For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 
 
 # Groups on Facebook
