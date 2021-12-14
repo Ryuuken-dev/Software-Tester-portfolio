@@ -11,7 +11,7 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 # Tech skills
 
-* Python ([Python repository]
+* Python ([Python repository](https://github.com/Ryuuken-dev/Python-Zadania))
 * SQL
 
 # Certificates
