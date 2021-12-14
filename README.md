@@ -13,7 +13,7 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 * Python ([Python repository](https://github.com/Ryuuken-dev/Python-Zadania))
 * SQL
-* Java ([Java repository]
+* Java ([Java repository](https://github.com/Ryuuken-dev/JavaStart))
 
 # Certificates
 
