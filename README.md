@@ -20,9 +20,10 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 # Courses
 
-* Software Development Academy: Software Tester (in progress)
+* Software Development Academy: Software Tester
 * PyStart: Python programming language
 * SkumajBazy: SQL (in progress)
+* JavaStart Kurs online (in progress)
 
 
 
@@ -54,5 +55,4 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 # My projects
 
-* Individual project-Exploratory testing site soucedemo.com
-  * https://github.com/Ryuuken-dev/Exploratory-testing-site-soucedemo.com
+
