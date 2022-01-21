@@ -17,6 +17,8 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 # Certificates
 
+* Szkolenie SCRUM: [Certyfikat](https://drive.google.com/file/d/1yyR1op4Rzy2ZWv9nZLeMoa9zHH66sa3c/view?usp=sharing)
+* Szkolenie Tester Oprogramowania: [Certyfikat](https://drive.google.com/file/d/1kC2TxWRw9NumFoyCYExwk6DUjmXcCyvb/view?usp=sharing)
 
 # Courses
 
