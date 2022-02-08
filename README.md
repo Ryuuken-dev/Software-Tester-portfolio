@@ -8,6 +8,7 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 * Jira
 * TestRail
+* TestLink
 
 # Tech skills
 
@@ -25,8 +26,8 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 * Software Development Academy: Software Tester
 * PyStart: Python programming language
-* SkumajBazy: SQL (in progress)
-* JavaStart Kurs online (in progress)
+* SkumajBazy: SQL
+* JavaStart Kurs online
 
 
 
