@@ -58,5 +58,5 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
   * https://drive.google.com/file/d/1XRpP-n8anlM0w3HGk35dUk6JYYwtwgiO/view?usp=sharing
 
 # My projects
-
+* [Testy aplikacji JaNieTakiOrk](https://github.com/Ryuuken-dev/PRI-Tests)
 
