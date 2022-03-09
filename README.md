@@ -59,4 +59,5 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 # My projects
 * [Testy aplikacji JaNieTakiOrk](https://github.com/Ryuuken-dev/PRI-Tests)
+* [Testy aplikacji Cognitive Typology-Codifier](https://github.com/Ryuuken-dev/CodifierApplicationTests)
 
