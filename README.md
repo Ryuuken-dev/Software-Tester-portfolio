@@ -17,11 +17,6 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 * Sygnalizacja świetlna-tablica decyzyjna
   * https://drive.google.com/file/d/1XRpP-n8anlM0w3HGk35dUk6JYYwtwgiO/view?usp=sharing
 
-# My test case examples
-
-
-# My bug reports
-
 # Tools
 
 * Jira
