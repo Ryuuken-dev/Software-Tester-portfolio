@@ -8,7 +8,6 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 # My projects
 * [Testy aplikacji JaNieTakiOrk Generator postaci RPG](https://github.com/Ryuuken-dev/PRI-Tests)
 * [Testy aplikacji Cognitive Typology-Codifier](https://github.com/Ryuuken-dev/CodifierApplicationTests)
-* [Testy aplikacji Todoist](https://github.com/Ryuuken-dev/Todoist-exploratory-tests)
 
 # My examples of diagrams and decision tables
 * Zadanie #1
