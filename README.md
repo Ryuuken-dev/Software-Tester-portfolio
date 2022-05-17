@@ -33,12 +33,14 @@ My name is Andrzej Wachnicki. I have started to interest of software testing. My
 
 * Szkolenie z metodyki SCRUM: [Certyfikat](https://drive.google.com/file/d/1yyR1op4Rzy2ZWv9nZLeMoa9zHH66sa3c/view?usp=sharing), [Zaświadczenie](https://drive.google.com/file/d/1rx4-9jw2Eqofv4tRpFfWOEt96lEas8WL/view?usp=sharing)
 * Szkolenie Tester Oprogramowania: [Certyfikat](https://drive.google.com/file/d/1kC2TxWRw9NumFoyCYExwk6DUjmXcCyvb/view?usp=sharing), [Zaświadczenie](https://drive.google.com/file/d/1rx4-9jw2Eqofv4tRpFfWOEt96lEas8WL/view?usp=sharing)
+* Szkolenie Praktyka testowania dla początkujących testerów: [Certyfikat](https://drive.google.com/file/d/1yYQtTiOSclCWvsh9Wbq75weFTKz1jZtx/view?usp=sharing)
 
 # Courses
 
 * Software Development Academy: Software Tester
 * PyStart: Python programming language
 * SkumajBazy: SQL
+* "Praktyka testowania dla początkujących testerów"
 
 
 # Groups on Facebook
